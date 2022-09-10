@@ -1,0 +1,23 @@
+.finder {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5%;
+}
+.finder input {
+  height: 29px;
+  width: 50%;
+  border: 4px solid black;
+  border-radius: 10px;
+  font-family: "Pokemon_GB";
+}
+.finder button {
+  width: 10%;
+  border-radius: 10px;
+  background: #FF0000;
+  border: 4px solid black;
+  color: black;
+  font-family: "Pokemon_GB";
+}
+.finder button:hover {
+  cursor: pointer;
+}/*# sourceMappingURL=SearchBar.css.map */
