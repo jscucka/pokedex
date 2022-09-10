@@ -1,6 +1,7 @@
-import './App.css';
+import "./Styles/App.css"
 import Header from './components/Header';
 import PokemonProvider from './components/PokemonProvider';
+
 function App() {
   return (
     <div className="App">
